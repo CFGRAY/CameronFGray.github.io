@@ -1,5 +1,2 @@
 # CameronFGray.github.io
-Online portfolio for Cameron F Gray
-
-
-Testing
+This is the online portfolio for Cameron F Gray.
